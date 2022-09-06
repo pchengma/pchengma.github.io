@@ -1,0 +1,28 @@
+title: Pengcheng Ma
+description: Personal Website
+author: "pchengma"
+
+theme: minima
+
+base_url: /pchengma.github.io
+
+twitter_username: pchengma
+github_username: pchengma
+linkedin_username: pchengma
+
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - _pages/about.md
+  - _pages/archive.md
+  
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - LICENSE
+    - README
